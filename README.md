@@ -10,8 +10,7 @@
 
 This project uses the [NeuroPy library](https://github.com/lihas/NeuroPy). The library is licensed under the following terms:
 
-Copyright (c) 2013, sahil singh
-All rights reserved.
+Copyright (c) 2013, sahil singh. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
