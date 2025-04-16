@@ -8,7 +8,7 @@
 
 
 
-This project uses the [NeuroPy](https://github.com/username/NeuroPy) library. The library is licensed under the following terms
+This project uses the [NeuroPy]([https://github.com/username/NeuroPy](https://github.com/lihas/NeuroPy)) library. The library is licensed under the following terms
 Copyright (c) 2013, sahil singh
 All rights reserved.
 
