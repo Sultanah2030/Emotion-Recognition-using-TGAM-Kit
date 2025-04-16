@@ -9,11 +9,10 @@
 
 
 This project uses the [NeuroPy](https://github.com/username/NeuroPy) library. The library is licensed under the following terms
-**# Copyright (c) 2013, sahil singh
-**##
-# All rights reserved.
-##
-# Redistribution and use in source and binary forms, with or without modification,
+Copyright (c) 2013, sahil singh
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
 # are permitted provided that the following conditions are met:
 ##
 # * Redistributions of source code must retain the above copyright notice,
