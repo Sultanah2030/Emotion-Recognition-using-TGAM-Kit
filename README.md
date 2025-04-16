@@ -8,10 +8,9 @@
 
 
 
-This project uses the [NeuroPy](https://github.com/username/NeuroPy) library. The library is licensed under the following terms:
-
-# Copyright (c) 2013, sahil singh
-##
+This project uses the [NeuroPy](https://github.com/username/NeuroPy) library. The library is licensed under the following terms
+**# Copyright (c) 2013, sahil singh
+**##
 # All rights reserved.
 ##
 # Redistribution and use in source and binary forms, with or without modification,
@@ -33,7 +32,7 @@ This project uses the [NeuroPy](https://github.com/username/NeuroPy) library. Th
 # CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
 # EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
 # PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF****
 # LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 # NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
