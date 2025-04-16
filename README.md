@@ -9,6 +9,7 @@
 
 
 This project uses the [NeuroPy library](https://github.com/lihas/NeuroPy). The library is licensed under the following terms:
+
 Copyright (c) 2013, sahil singh
 All rights reserved.
 
