@@ -11,7 +11,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 2. **Jupyter Notebook for Data Representation and Training (SVM Classifier)**: 
    - The main notebook for running the SVM classifier and training the model using the features extracted from EEG data. 
 
-4. **Preprocessing and Feature Extraction (EEG_processor)**: 
+4. **Preprocessing and Feature Extraction (EEG_processing)**: 
    - This file handles the preprocessing of raw EEG signals (including median filtering, notch filtering, thresholding, and bandpass filtering).
    - It also extracts features such as Power Spectral Density (PSD), Standard Deviation, Mean, and Entropy from the cleaned data for training the model.
 
