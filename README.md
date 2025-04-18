@@ -27,7 +27,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 
 
 
-# Results
+## Results
 - The trained model achieved an accuracy of 88.64%.
 
 - The happiness state was classified with 96% accuracy.
@@ -37,7 +37,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 - The results are based on a trade-off between the low-cost single-channel EEG device and classification performance.
 
 
-# Conclusion 
+## Conclusion 
 This project successfully demonstrates emotion recognition using a single-channel EEG device and machine learning. Despite some challenges with the data quality, the model shows promising results in distinguishing between happy and sad emotions.
 
 For more information or if you want to contribute to the project, feel free to fork this repository and create pull requests.
