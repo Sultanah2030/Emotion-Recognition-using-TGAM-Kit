@@ -45,11 +45,3 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 
 
 
-
-
-
-
-NeuroPy Library
-This project uses the [NeuroPy library](https://github.com/lihas/NeuroPy). The library is licensed under the Copyright (c) 2013, sahil singh. All rights reserved.
-
-
