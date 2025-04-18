@@ -5,7 +5,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 
 1. **NeuroPy Library**:
 - This project uses the NeuroPy library. The library is licensed under the Copyright (c) 2013, sahil singh. All rights reserved.
-Used to collect and process EEG signals. 
+   - Used to collect and process EEG signals. 
    - [NeuroPy GitHub Repository](https://github.com/lihas/NeuroPy)
 
 2. **Jupyter Notebook for Data Representation (SVM Classifier)**: 
