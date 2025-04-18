@@ -18,7 +18,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
 5. **Project Report (Emotion Recognition using EEG signals.PDF)**: 
    - The detailed report that explains the project, the methods used, results, and challenges faced.
 
-6. **Datasets for Representation Training**: 
+6. **Datasets for Representation and Training**: 
    - The EEG datasets used to train and test the model, including the features extracted, the dataset used for training is based on EEG signals collected using the TGAM device.
      
      It contains two types of emotional states: Happy = 1, Sad = 0.
