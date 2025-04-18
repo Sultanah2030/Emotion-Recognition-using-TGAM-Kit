@@ -15,7 +15,7 @@ This project recognizes emotions (happiness and sadness) using EEG signals and m
    - This file handles the preprocessing of raw EEG signals (including median filtering, notch filtering, thresholding, and bandpass filtering).
    - It also extracts features such as Power Spectral Density (PSD), Standard Deviation, Mean, and Entropy from the cleaned data for training the model.
 
-5. **Project Report (Emotion Recognition using EEG signals.PDF**: 
+5. **Project Report (Emotion Recognition using EEG signals.PDF)**: 
    - The detailed report that explains the project, the methods used, results, and challenges faced.
 
 6. **Datasets for Representation Training**: 
